@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/itzhth" target="blank"><img src="https://img.shields.io/twitter/follow/itzhth?logo=twitter&style=for-the-badge" alt="itzhth" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Advance Flutter & CI/CD**
 
 - 💬 Ask me about **Flutter & Dart**
 
